@@ -1,0 +1,16 @@
+{
+    "name": "carlos/wp-staff",
+    "description": "Allows an overview of your staff",
+    "type": "composer-plugin",
+    "license": "GPL-3.0-only / GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "cpozo",
+            "email": "carlosricardo.pozo@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "inpsyde/php-coding-standards": "1.x-dev"
+    }
+}
