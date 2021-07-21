@@ -1,9 +1,11 @@
 {
-  "name": "wp-staff",
+  "name": "wp-employees",
   "version": "1.0.0",
   "description": "Allows an overview of your staff",
   "main": "index.js",
   "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Carlos Pozo",

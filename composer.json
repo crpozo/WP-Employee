@@ -1,6 +1,6 @@
 {
-    "name": "carlos/wp-staff",
-    "description": "Allows an overview of your staff",
+    "name": "carlos/wp-employees",
+    "description": "Allows an overview of your employees",
     "type": "composer-plugin",
     "license": "GPL-3.0-only / GPL-3.0-or-later",
     "authors": [
@@ -11,6 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require-dev": {
-        "inpsyde/php-coding-standards": "1.x-dev"
+        "inpsyde/php-coding-standards": "1.x-dev",
+        "phpunit/phpunit": "7.0"
     }
 }
