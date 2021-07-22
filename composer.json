@@ -1,0 +1,18 @@
+{
+    "name": "carlos/wp-employees",
+    "description": "Allows an overview of your employees",
+    "type": "composer-plugin",
+    "keywords": ["composer", "installer", "WordPress", "plugin", "theme"],
+    "license": "GPL-3.0-only / GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "cpozo",
+            "email": "carlosricardo.pozo@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "inpsyde/php-coding-standards": "1.x-dev",
+        "phpunit/phpunit": "7.0"
+    }
+}
