@@ -10,6 +10,10 @@ The plugin allows the user to add a new block to select a specific employee from
     - Bootstrap: For responsive modal and layout. 
     - @wordpress/scripts: Wordpress build tool for minify, transpile and use JSX sintaxis
 
+## Justification
+
+I started by creating a development environment with the help of a composer-based core. For the creation of the plugin, I generated a JSON with dummy data to simulate the employees of the company. Within the editor logic I created a block selector to display all the names of the employees, so that the user can select which one to display. Finally, for creating the modal I have used bootstrap 5 because it is a robust framework and allows to quickly create responsive elements.
+
 ## Demo
 <img src="assets/images/capture.png">
 <img src="assets/images/capture_2.png">
