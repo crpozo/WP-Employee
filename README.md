@@ -4,7 +4,12 @@ The plugin allows the user to add a new block to select a specific employee from
 
 ## Instructions
 ```
-npm install
+npm install 
+
+For generating build files:
+
+npm install --save-dev
+npm run build
 ```
 
 ## Composer Dependencies
