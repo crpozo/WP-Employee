@@ -4,9 +4,6 @@ The plugin allows the user to add a new block to select a specific employee from
 
 ## Instructions
 ```
-For working with bootstrap, please type:
-npm install 
-
 For working with files from the build folder, please type:
 
 npm install --save-dev
