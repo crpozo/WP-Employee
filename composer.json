@@ -2,6 +2,7 @@
     "name": "carlos/wp-employees",
     "description": "Allows an overview of your employees",
     "type": "composer-plugin",
+    "keywords": ["composer", "installer", "WordPress", "plugin", "theme"],
     "license": "GPL-3.0-only / GPL-3.0-or-later",
     "authors": [
         {
